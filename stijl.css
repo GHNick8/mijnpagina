@@ -1,0 +1,31 @@
+.btn {
+    border-radius: 7px;
+}
+.col {
+    background-color: #000000;
+    padding: 10px;
+}
+body {
+    background-color: #9FFFFF;
+}
+header {
+    background-color: #000000;
+    min-height: 55px;
+    margin-top: 10px;
+}
+footer {
+    background-color: #000000;
+    min-height: 200px;
+    margin-top: 10px;
+}
+input[type="text"] {
+    margin-top: 10px;
+}
+textarea{
+    height: 150px;
+    padding: 5px 4px;
+}
+#copyrightinfo {
+    color: #0099FF;
+    margin-left: 10px;
+}
